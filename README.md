@@ -4,73 +4,167 @@
  <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
-[![RepoRater](https://repo-rater.eddiehub.io/api/badge?owner=MichaelCade&name=90DaysOfDevOps)](https://repo-rater.eddiehub.io/rate?owner=MichaelCade&name=90DaysOfDevOps) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.90daysofdevops.com)](https://www.90daysofdevops.com) [![GitHub Repo stars](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps)](https://github.com/MichaelCade/90DaysOfDevOps) [![GitHub Repo stars](https://img.shields.io/github/forks/MichaelCade/90DaysOfDevOps)](https://github.com/MichaelCade/90DaysOfDevOps)  [![GitHub Repo issues](https://img.shields.io/github/issues/MichaelCade/90DaysOfDevOps)](https://github.com/MichaelCade/90DaysOfDevOps)  
+English Version | [한국어](2023/ko/README.md) | [Tiếng Việt](2023/vi/2023.md)
 
-This repository started as a way to document my journey on getting a better foundational knowledge of "DevOps". It was started on the 1st January 2022 and ran to the 31st March 2022 which is 90 Days! 
-
-What started off as a learning in public project has quickly become a structured way of learning the foundations of DevOps principles, processes and tooling. Maybe you can help contribute some resources you have found useful to the project. 
-
-2022 - Written content by myself but then translated and corrected and enhanced by the community 
-2023 - Focus on Security and other topics we did not get to in 2022, Perspectives from communinty subject matter experts. 
-2024 - Community Sessions by the community, 91 Sessions shared on YouTube. Different Media with intent to build out resources here as well. 
-
-2025 - Where should we take this next? Are we finished? 
-
-This will **not cover all things** "DevOps" but it will cover some of the areas that will benefit your learning and understanding overall in this space. The encouragement here is to read & watch the content, be curious, provide feedback and discuss within the community your findings.
-
-The project is not a sponsored operation by any vendors and everything is accessible using free, community and open source software. 
+This repository is used to document my journey on getting a better foundational knowledge of "DevOps".
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N33YRCS)
 
-[![Discord Invite Link](https://dcbadge.vercel.app/api/server/vqwPrNQsyK)](https://discord.gg/vqwPrNQsyK)
+If you have questions and want to get involved then join the discord and share your questions and stories with the community.
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/michaelcade/90daysofdevops?style=social?)
+[![](https://dcbadge.vercel.app/api/server/vqwPrNQsyK)](https://discord.gg/vqwPrNQsyK)
 
-The to images below will take you to the 2022, 2023 and 2024 editions of the learning journey. 
+Or contact us via Twitter, my handle is [@MichaelCade1](https://twitter.com/MichaelCade1) you can find the authors for 2023 also on Twitter linked below.
 
-<div style="display: flex; justify-content: center; align-items: center;">
+## List of Topics
 
-  <div style="margin: 10px; text-align: center;">
-    <a href="2022.md">
-      <img src="2022.png?raw=true" alt="2022" style="border: 2px solid #555; border-radius: 8px; width: 100%; max-width: 400px;" />
-    </a>
-    <br />
-    <em>Year 2022 - This is where we start, 110k words </em>
-  </div>
+| Topic                                  | Author                              | Date                | Twitter Handle                                                                                  |
+| -------------------------------------- | ----------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------- |
+| DevSecOps                              | Michael Cade                        | 1st Jan - 6th Jan   | [@MichaelCade1](https://twitter.com/MichaelCade1)                                               |
+| Secure Coding                          | Prateek Jain                        | 7th Jan - 13th Jan  | [@PrateekJainDev](https://twitter.com/PrateekJainDev)                                           |
+| Continuous Build, Integration, Testing | Anton Sankov and Svetlomir Balevski | 14th Jan - 20th Jan | [@a_sankov](https://twitter.com/a_sankov)                                                       |
+| Continuous Delivery & Deployment       | Anton Sankov                        | 21st Jan - 27th Jan | [@a_sankov](https://twitter.com/a_sankov)                                                       |
+| Runtime Defence & Monitoring           | Ben Hirschberg                      | 28th Jan - 3rd Feb  | [@slashben81](https://twitter.com/slashben81)                                                   |
+| Secrets Management                     | Bryan Krausen                       | 4th Feb - 10th Feb  | [@btkrausen](https://twitter.com/btkrausen)                                                     |
+| Python                                 | Rishab Kumar                        | 11th Feb - 17th Feb | [@rishabk7](https://twitter.com/rishabk7)                                                       |
+| AWS                                    | Chris Williams                      | 18th Feb - 24th Feb | [@mistwire](https://twitter.com/mistwire)                                                       |
+| OpenShift                              | Dean Lewis                          | 25th Feb - 3rd Mar  | [@saintdle](https://twitter.com/saintdle)                                                       |
+| Databases                              | Taylor Riggan & Andrew Pruski       | 4th Mar - 10th Mar  | [@triggan](https://twitter.com/triggan) & [@dbafromthecold](https://twitter.com/dbafromthecold) |
+| Serverless                             | Kristi Perreault                    | 11th Mar - 17th Mar | [@kperreault95](https://twitter.com/kperreault95)                                               |
+| Service Mesh                           | Marino Wijay                        | 18th Mar - 24th Mar | [@virtualized6ix](https://twitter.com/virtualized6ix)                                           |
+| Engineering for Day 2 Ops              | Alistair Hey                        | 25th Mar - 31st Mar | [@alistair_hey](https://twitter.com/alistair_hey)                                               |
 
-  <div style="margin: 10px; text-align: center;">
-    <a href="2023.md">
-      <img src="2023.png?raw=true" alt="2023" style="border: 2px solid #555; border-radius: 8px; width: 100%; max-width: 400px;" />
-    </a>
-    <br />
-    <em>Year 2023 - Continues... Some help from my friends</em>
-  </div>
+## Progress
 
-  <div style="margin: 10px; text-align: center;">
-    <a href="2024.md">
-      <img src="2024.png?raw=true" alt="2024" style="border: 2px solid #555; border-radius: 8px; width: 100%; max-width: 400px;" />
-    </a>
-    <br />
-    <em>Year 2024 - Community Edition: 90 Sessions</em>
-  </div>
+- [✔️] ♾️ 1 > [2022 Reflection & Welcome 2023](2023/day01.md)
 
-</div>
+### DevSecOps
 
-The quickest way to get in touch is going to be via Twitter, my handle is [@MichaelCade1](https://twitter.com/MichaelCade1)
+- [✔️] ♾️ 2 > [The Big Picture: DevSecOps](2023/day02.md)
+- [✔️] ♾️ 3 > [Think like an Attacker](2023/day03.md)
+- [✔️] ♾️ 4 > [Red Team vs. Blue Team](2023/day04.md)
+- [✔️] ♾️ 5 > [OpenSource Security](2023/day05.md)
+- [✔️] ♾️ 6 > [Hands-On: Building a weak app](2023/day06.md)
 
-## License
+### Secure Coding
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+- [✔️] 🔐 7 > [Secure Coding Overview](2023/day07.md)
+- [✔️] 🔐 8 > [SAST Overview](2023/day08.md)
+- [✔️] 🔐 9 > [SAST Implementation with SonarCloud](2023/day09.md)
+- [✔️] 🔐 10 > [Software Composition Analysis Overview](2023/day10.md)
+- [✔️] 🔐 11 > [SCA Implementation with OWASP Dependency Check](2023/day11.md)
+- [✔️] 🔐 12 > [Secure Coding Practices](2023/day12.md)
+- [✔️] 🔐 13 > [Additional Secure Coding Practices](2023/day13.md)
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+### Continuous Build, Integration, Testing
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+- [✔️] ⚒️ > [Container Image Scanning](2023/day14.md)
+- [✔️] ⚒️ > [Container Image Scanning Advanced](2023/day15.md)
+- [✔️] ⚒️ > [Fuzzing](2023/day16.md)
+- [✔️] ⚒️ > [Fuzzing Advanced](2023/day17.md)
+- [✔️] ⚒️ > [DAST](2023/day18.md)
+- [✔️] ⚒️ > [IAST](2023/day19.md)
+- [✔️] ⚒️ > [Practical Lab on IAST and DAST](2023/day20.md)
 
-## Star History
+### Continuous Delivery & Deployment
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MichaelCade/90DaysOfDevOps&type=Timeline)](https://star-history.com/#MichaelCade/90DaysOfDevOps&Timeline)
+- [✔️] 🚚 21 > [Continuous Image Repository Scan](2023/day21.md)
+- [✔️] 🚚 22 > [Continuous Image Repository Scan - Container Registries](2023/day22.md)
+- [✔️] 🚚 23 > [Artifacts Scan](2023/day23.md)
+- [✔️] 🚚 24 > [Signing](2023/day24.md)
+- [✔️] 🚚 25 > [Systems Vulnerability Scanning](2023/day25.md)
+- [✔️] 🚚 26 > [Containers Vulnerability Scanning](2023/day26.md)
+- [✔️] 🚚 27 > [Network Vulnerability Scan](2023/day27.md)
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+### Runtime Defence & Monitoring
+
+- [✔️] 🏃 28 > [System monitoring and auditing](2023/day28.md)
+- [✔️] 🏃 29 > [Application level monitoring](2023/day29.md)
+- [✔️] 🏃 30 > [Detecting suspicious application behavior](2023/day30.md)
+- [✔️] 🏃 31 > [Runtime network protections and policies](2023/day31.md)
+- [✔️] 🏃 32 > [Vulnerability and patch management](2023/day32.md)
+- [✔️] 🏃 33 > [Application runtime and network policies](2023/day33.md)
+- [✔️] 🏃 34 > [Runtime access control](2023/day34.md)
+
+### Secrets Management
+
+- [✔️] 🕵 35 > [Understanding the Importance of Secrets Management](2023/day35.md)
+- [✔️] 🕵 36 > [Securing Secrets with HashiCorp Vault](2023/day36.md)
+- [✔️] 🕵 37 > [Working with HashiCorp Vault's Secrets Engines](2023/day37.md)
+- [✔️] 🕵 38 > [Increase the Security Posture of Your Organization with Dynamic Credentials](2023/day38.md)
+- [✔️] 🕵 39 > [Getting Hands-On with HashiCorp Vault](2023/day39.md)
+- [] 🕵 40 > [](2023/day40.md)
+- [] 🕵 41 > [](2023/day41.md)
+
+### Python
+
+- [✔️] 🐍 42 > [Programming Language: Introduction to Python](2023/day42.md)
+- [✔️] 🐍 43 > [Python Loops, functions, modules and libraries](2023/day43.md)
+- [✔️] 🐍 44 > [Data Structures and OOP in Python](2023/day44.md)
+- [✔️] 🐍 45 > [Debugging, testing and Regular expression](2023/day45.md)
+- [✔️] 🐍 46 > [Web development in Python](2023/day46.md)
+- [✔️] 🐍 47 > [Automation with Python](2023/day47.md)
+- [✔️] 🐍 48 > [Let's build an App in Python](2023/day48.md)
+
+### AWS
+
+- [✔️] ☁️ 49 > [AWS Cloud Overview](2023/day49.md)
+- [✔️] ☁️ 50 > [Create Free Tier Account & Enable Billing Alarms](2023/day50.md)
+- [✔️] ☁️ 51 > [Infrastructure as Code (IaC) and CloudFormation](2023/day51.md)
+- [✔️] ☁️ 52 > [Identity and Access Management (IAM)](2023/day52.md)
+- [✔️] ☁️ 53 > [AWS Systems Manager](2023/day53.md)
+- [✔️] ☁️ 54 > [AWS CodeCommit](2023/day54.md)
+- [✔️] ☁️ 55 > [AWS CodePipeline](2023/day55.md)
+
+### Red Hat OpenShift
+
+- [✔️] ⛑️ 56 > [What does Red Hat OpenShift bring to the party? An Overview](2023/day56.md)
+- [✔️] ⛑️ 57 > [Understanding the OpenShift Architecture, Installation Methods and Process](2023/day57.md)
+- [✔️] ⛑️ 58 > [Deploying Red Hat OpenShift on VMware vSphere](2023/day58.md)
+- [✔️] ⛑️ 59 > [Deploying applications and getting a handle on Security Constraints Context (SCC)](2023/day59.md)
+- [✔️] ⛑️ 60 > [Looking at OpenShift Projects - Creation, Configuration and Governance](2023/day60.md)
+- [✔️] ⛑️ 61 > [Understanding Authentication, Role-Based Access Control (RBAC) and Auditing in Red Hat OpenShift: Control and Secure Your Cluster](2023/day61.md)
+- [✔️] ⛑️ 62 > [Compliance and Vulnerability Scanning provided by Red Hat OpenShift Operators](2023/day62.md)
+
+### Databases
+
+- [✔️] 🛢 63 > [An introduction to databases](2023/day63.md)
+- [✔️] 🛢 64 > [Querying data in databases](2023/day64.md)
+- [✔️] 🛢 65 > [Backing up and restoring databases](2023/day65.md)
+- [✔️] 🛢 66 > [High availability and disaster recovery](2023/day66.md)
+- [✔️] 🛢 67 > [Performance tuning](2023/day67.md)
+- [✔️] 🛢 68 > [Database security](2023/day68.md)
+- [✔️] 🛢 69 > [Monitoring and troubleshooting database issues](2023/day69.md)
+
+### Serverless
+
+- [✔️] 👩🏿‍💻 70 > [What is Serverless?](2023/day70.md)
+- [✔️] 👩🏿‍💻 71 > [Serverless Compute](2023/day71.md)
+- [✔️] 👩🏿‍💻 72 > [Serverless Storage](2023/day72.md)
+- [✔️] 👩🏿‍💻 73 > [Serverless APIs](2023/day73.md)
+- [✔️] 👩🏿‍💻 74 > [Serverless Orchestration](2023/day74.md)
+- [✔️] 👩🏿‍💻 75 > [Serverless & Well Architected](2023/day75.md)
+- [✔️] 👩🏿‍💻 76 > [Serverless - Beyond the Basics](2023/day76.md)
+
+### Service Mesh
+
+- [✔️] 🧩 77 > [Let's break down a Service Mesh](2023/day77.md)
+- [✔️] 🧩 78 > [Install and Test a Service Mesh](2023/day78.md)
+- [✔️] 🧩 79 > [Comparing Different Service Meshes](2023/day79.md)
+- [✔️] 🧩 80 > [Traffic Engineering Basics](2023/day80.md)
+- [✔️] 🧩 81 > [Observability in your Mesh](2023/day81.md)
+- [✔️] 🧩 82 > [Securing your microservices](2023/day82.md)
+- [✔️] 🧩 83 > [Sidecar or Sidecar-less? Enter Ambient Mesh](2023/day83.md)
+
+### Engineering for Day 2 Ops
+
+- [✔️] 👷🏻‍♀️ 84 > [Writing an API - What is an API?](2023/day84.md)
+- [✔️] 👷🏻‍♀️ 85 > [Queues, Queue workers and Tasks (Asynchronous architecture)](2023/day85.md)
+- [✔️] 👷🏻‍♀️ 86 > [Designing for Resilience, Redundancy and Reliability](2023/day86.md)
+- [✔️] 👷🏻‍♀️ 87 > [Zero Downtime Deployments](2023/day87.md)
+- [✔️] 👷🏻‍♀️ 88 > [Monitoring, Alerting and On-Call](2023/day88.md)
+- [✔️] 👷🏻‍♀️ 89 > [Oops: When something goes wrong - Post Mortems](2023/day89.md)
+
+### 2023 wrap up
+
+- [✔️] 🏁 90 > [Wrapping up the 2023 edition](2023/day90.md)
